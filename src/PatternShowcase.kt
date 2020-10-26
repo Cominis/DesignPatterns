@@ -1,0 +1,3 @@
+interface PatternShowcase {
+    fun start()
+}
